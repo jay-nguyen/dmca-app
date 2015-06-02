@@ -1,4 +1,4 @@
-This app was built upon the Laravel PHP Framework.
+This app was built upon the Laravel PHP Framework
 
 The DMCA App features:
 	-User Creation & Authentication
